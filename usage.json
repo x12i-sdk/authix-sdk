@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/authix-sdk",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/authix-sdk",
+  "usageRepository": "https://github.com/x12i-sdk/authix-sdk",
+  "sourceRepository": "https://github.com/x12i/authix",
+  "sourceCommit": "dc63d85812526248b1dade3f25131205c36be51f",
+  "sourcePackageDirectory": "packages/token-sdk",
+  "example": {
+    "title": "Verify a locally issued token through the consumer SDK",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:38:00.092529+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "2309dbe8c33fb7f41047d08c3e2449d3f21d315b331d2c4ce7a059c5d9c87386",
+    "manifestSha256": "71bc6ec561d7d55196178df11e964289f81ce59aab064a4aac5fe6d47868371e"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "authix-sdk-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/authix-sdk: verify a locally issued token through the consumer sdk.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/authix-sdk": "1.0.1",
+    "@x12i/authix-core": "1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/authix-sdk.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/authix-sdk"
+}
